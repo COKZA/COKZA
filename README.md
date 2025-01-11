@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=Forks%20Count&color=FFD700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cokza" alt="Forks">
 </p>
 
-- 👨‍💻 Official developer of [CokzaDsc](https://github.com/Cokza/CokzaDsc) – A cutting-edge project designed to push the boundaries of development.
+- 👨‍💻 Official developer of [CokzaDsc](https://github.com/Cokza/CokzaDsc) – A project to enhance your tech experience with secure solutions.
+  
+- 🛠 Currently developing tools for security and privacy enhancement. Please test in a secure environment and use within legal boundaries.
 
-- 📫 Interested in collaborating or discussing tech? Reach me via [Telegram](https://t.me/D_E_V_3).
-
-- ⚙️ Passionate about building secure and efficient solutions for the community.
-
+- 📫 Reach out to me on [Telegram](https://t.me/D_E_V_3) for collaborations or discussions.
