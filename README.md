@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?&label=Forks%20Count&color=FFD700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cokza" alt="Forks">
 </p>
 
-- 👨‍💻 Official developer of [CokzaDsc](https://github.com/Cokza/CokzaDsc) – A project to enhance your tech experience with secure solutions.
+- 👨‍💻 Official developer of [KzaStealer](https://github.com/Cokza/KzaStealer) – A project to enhance your tech experience with secure solutions.
   
 - 🛠 Currently developing tools for security and privacy enhancement. Please test in a secure environment and use within legal boundaries.
 
