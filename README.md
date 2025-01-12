@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cokza&label=Profile%20views&color=FFD700&style=flat" alt="Cokza" />
   <img src="https://img.shields.io/badge/dynamic/json?&label=Stars%20Count&color=FFD700&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/cokza" alt="Stars">
   <img src="https://img.shields.io/badge/dynamic/json?&label=Forks%20Count&color=FFD700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/cokza" alt="Forks">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Downloads%20Count&color=FFD700&style=flat&style=for-the-badge&query=%24.downloads&url=https://api.github-download-counter.workers.dev/user/cokza/KzaStealer" alt="Downloads">
 </p>
 
 - 👨‍💻 Developer of [KzaStealer](https://github.com/Cokza/KzaStealer) – Creating tools to improve security and privacy.
